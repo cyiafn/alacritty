@@ -8,3 +8,6 @@ blur = true
 [font]
 normal = { family = "MesloLGS NF", style = "Regular" }
 size = 13
+
+[shell]
+program = "/opt/homebrew/bin/tmux"
